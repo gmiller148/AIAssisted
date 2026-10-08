@@ -1,0 +1,9 @@
+{
+  "name": "learn-visual-tools",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^12.0.0",
+    "puppeteer": "^25.12.0"
+  }
+}
